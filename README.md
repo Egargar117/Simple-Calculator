@@ -1,7 +1,5 @@
-# Simple-Calculator
-A simple calculator made in python.
-[Simple-Calc.py](https://github.com/user-attachments/files/23150639/Simple-Calc.py)
-
+[Simple-Calc.py](https://github.com/user-attachments/files/23150666/Simple-Calc.py)
+#simple-calc
 def addition(x, y):
     return x + y
 def subtract(x, y):
@@ -32,3 +30,5 @@ elif sel == 4:
     print(x, "times", y, "=", multiply(x, y))
 else:
     print("error. Select a number from 1-4")
+
+input("press enter to exit")
